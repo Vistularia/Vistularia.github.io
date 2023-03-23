@@ -1,0 +1,223 @@
+> [!infobox|center]+
+> # God or Name of Mythical Being
+> ![[]]
+> [[|Show To Players]]
+> ###### Base Info
+> Type |  Stat |
+> ---|---|
+> Titles | ^^^ |
+> Aliases | ^^^ |
+> Affiliations | ^^^ |
+> Status | ^^^ |
+> ###### Campaign Information
+> Type |  Stat |
+> ---|---|
+> Time Period | ^^^ |
+> Campaign | ^^^ |
+> Notable Occurrences | ^^^ |
+
+
+# Introduction
+- Legendary Weopan
+	- Bahamuts Blade 
+- Key Item
+	-  The S.T.A.R
+		- Satellite for full world deployment
+- Grand Plot
+	- Turn all of the mortals in the continent into beings like the endless by siphoning in multi-source power from Gods, Monsters, etc.
+ - Questions Answered
+	 - Why are the gods losing all their power?
+	 - Why have monsters appeared in the last 75 years?
+  - Champion
+	- Sofia
+
+Parila the Pious
+		- Cloth of the Damned Arc
+		- Sofia is the Champion
+		- Elevate all the Mortal Life to beat the apopcalypse
+
+
+
+Looks like a woman in a priest costume
+
+## Parila the Pious
+[[Parila the Pious]]
+### Purpose
+Elevate the individuals beyond level of Gods, make them endless like the Banished.
+
+### Grand Plan
+Siphoning the Gods Power
+God Alliances
+
+### Champion
+The Order of the White
+
+
+### Detailed Actions
+Sofia Landonson as the champion
+
+
+### Personal Background
+Sofia is the Champion
+### Section 2
+Description Paragraph
+!***insert link to picture***
+
+#### Subsection 1.1
+***insert link to page***
+Description Paragraph
+
+#### Subsection 1.2
+Description Paragraph
+***insert link to page***
+
+
+
+# Callout Styles
+
+
+### General Popout Card
+
+>This is how you do a general pop out/quote, you can add a table in here as well
+
+| Adjustment | Description |
+| --- | --- |
+| `2`, `4`, `5` | Change number of columns; 3 is default |
+| `dataview` | Style dataview table and lists as cards |
+| `dvl` | Style dataview list
+
+> [!cards]
+> **[[Link]]**
+> ![[WendigoInSnow.jpg]]
+> 
+> **[[Link]]**
+> ![[Werewolf_Snow.jpg|sban htiny ctr]]
+
+
+> [!cards|4]
+> **[[Link]]**
+> ![Image link|sban htiny ctr](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
+> 
+> **[[Link]]**
+> ![[Image Link.png|sban htiny ctr]]
+> 
+> **[[Link]]**
+> ![Image link|sban htiny ctr](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
+> 
+> **[[Link]]**
+> ![[Image Link.png|sban htiny ctr]]
+
+
+
+### Callouts
+![[PNG link |center|300]]
+
+![[PNG picture |center|150]]
+
+
+### Column Lists
+
+> [!column]
+>> [!info] Column 1
+>> - Use another callout for columns
+>
+>> [!note] Column 2
+>> Need that singular blockquote `>` as separation between columns
+>
+
+> [!column|flex 3]
+>> [!info|no-t] 
+>> Column 1
+>
+>> [!important]+ Current Topics
+>> Column 2
+> [!column|dataview 3] 3 Columns for Dataview List
+> ```dataview
+> LIST
+> FROM ""
+> LIMIT 20
+> ```
+> 
+
+### Grid
+> [!grid]
+> ![[Pelor.png]]
+> ![[Wakeen.webp]]
+> ![[Chauntea.webp]]
+> ![[Oghma.webp]]
+> ![[Mystra.webp]]
+>
+> ![[Garl Glittergord.jpg]]
+> ![[Eldath.webp]]
+> ![[Torm.jpg]]
+> ![[Bahamut.webp]]
+> ![[Luthic.jpeg]]
+> ![[Gond.webp]]
+> 
+> ![[Shaundakul.webp]]
+> ![[Lathander.webp]]
+> ![[Kelevmor.jpg]]
+> ![[Eilistraee.jpg]]
+> ![[Illmater.jpg]]
+
+
+### Timeline
+
+
+> [!timeline|t-l] **Title** _Subtitle_
+> Left aligned timeline piece
+
+> [!timeline|t-r] **Title** *Subtitle*
+> Right aligned timeline piece
+
+> [!timeline|t-l] **Title** _Subtitle_
+> Left aligned timeline piece
+
+> [!timeline|t-r] **Title** *Subtitle*
+> Right aligned timeline piece
+
+> [!timeline|t-l] **Title** *Subtitle*
+> Spaced timeline piece
+
+
+### Checkboxes
+
+- [ ] Unchecked 
+- [x] Regular 
+- [X] Checked 
+- [-] Dropped 
+- [>] Forward 
+- [D] Date 
+- [?] Question 
+- [/] Half Done 
+- [+] Add 
+- [R] Research 
+- [!] Important 
+- [i] Idea 
+- [B] Brainstorm 
+- [P] Pro 
+- [C] Con 
+- [Q] Quote 
+- [N] Note 
+- [b] Bookmark 
+- [I] Information 
+- [p] Paraphrase 
+- [L] Location 
+- [E] Example 
+- [A] Answer 
+- [r] Reward 
+- [c] Choice 
+- [d] Doing 
+- [T] Time 
+- [@] Character / Person 
+- [t] Talk 
+- [O] Outline / Plot 
+- [~] Conflict 
+- [W] World 
+- [f] Clue / Find 
+- [F] Foreshadow 
+- [H] Favorite / Health 
+- [&] Symbolism 
+- [s] Secret
+
+
